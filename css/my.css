@@ -1,5 +1,4 @@
 /*css*/
-
 body {
 	background: rgb(0, 189, 252);
 	font-family: 'Roboto', sans-serif;
@@ -47,7 +46,7 @@ table {
 }
 
 a:hover{
-  color:hotpink;
+  color:rgb(95, 106, 109);
 }
 
 a:visited{
